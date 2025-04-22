@@ -1,0 +1,25 @@
+1.0
+nothing yet! pray that nothing goes wrong :')
+
+Todo: 
+-Fix all the variants so the AI won't completely shit itself trying to put a bomb bay on a captial ship *DONE
+-Import the assosciated shipsystems that are popularily requested, and fix some ships with unique built in weapons.*In Progress
+-Add more ships? *Eternally in progress
+
+1.1
+
+Updated game version to 0.96a
+Updated Haast model
+
+1.11
+Updated Stormhawk model
+
+Update 2.0 - THE BIG ONE!
+
+This gigachad called maxwell has updated every single sprite to truly be the XIV we all know and love, give this man a medal.
+Moar XIV is so back baby!
+
+Changes:
++Reworked all sprites
++Added Pegasus XIV class ship
++Added version checker support
