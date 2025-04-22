@@ -1,6 +1,6 @@
 {
-    "changelogURL":"",
-    "masterVersionFile":"",
+    "changelogURL":"https://raw.githubusercontent.com/mxwl404/Moar-XIV/refs/heads/main/changelog.txt",
+    "masterVersionFile":"https://raw.githubusercontent.com/mxwl404/Moar-XIV/refs/heads/main/MoarXIV.version",
     "modName":"Moar XIV",
     "modVersion":
     {
