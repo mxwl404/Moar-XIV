@@ -23,3 +23,13 @@ Changes:
 +Reworked all sprites
 +Added Pegasus XIV class ship
 +Added version checker support
+
+Update 2.1
+
+changes:
+-Fixed Endless MK1 XIV weapon groups
+-Fixed Endless MK1 XIV description
+-updated Owl XIV Spec Ops sprites, thanks to Flonxen on the forums
++Added Endless MK2 XIV class ship
++Added Titan XIV class ship
++Added Albyss XIV portrait and bounty

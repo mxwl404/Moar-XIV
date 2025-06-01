@@ -34,6 +34,7 @@
 	"combatCapital":{
 			#"shipname":0,
 		"Endless_XIV_Doomship":10,
+		"Endless_mk2_XIV_Doomship":10,
 		"Beheslaught_XIV_Artillery":10,
 		"Executor_XIV_Assault":10,
 		"Tanngrisni_XIV_Elite":10,
@@ -44,6 +45,7 @@
 		"Ingria_XIV_standard":10,
 		"Sevastoron_XIV_Support":10,
 		"Pegasus_XIV_standard":10,
+		"moxiv_Titan_XIV_Assault":10,
 	},
 	
 	# carriers

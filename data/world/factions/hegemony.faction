@@ -5,6 +5,7 @@
 		"hulls":{
 			"Beheslaught_XIV":0, #Not in their original fleet lineup so not being added
 			"Endless_XIV":0,
+			"Endless_mk2_XIV":0,
 			"Tanngrisni_XIV":0.3,
 			"Trajan_XIV":0.3,
 			"Knobkerrie_XIV":0.2,
@@ -15,6 +16,7 @@
 			"Ingria_XIV":0.5,
 			"Sevastoron_XIV":0.3,
 			"Pegasus_XIV":0.3,
+			"moxiv_Titan_XIV":0,
 
 			"Harrier_XIV":0.5,
 			"Stormhawk_XIV":0.8,
@@ -44,8 +46,11 @@
 		"hulls":[
 			"Beheslaught_XIV",
 			"Endless_XIV",
+			"Endless_mk2_XIV",
 			"Ingria_XIV",
 			"Sevastoron_XIV",
+			"Pegasus_XIV",
+			"moxiv_Titan_XIV",
 
 			"Tanngrisni_XIV",
 			"Trajan_XIV",
