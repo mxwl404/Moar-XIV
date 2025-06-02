@@ -33,3 +33,6 @@ changes:
 +Added Endless MK2 XIV class ship
 +Added Titan XIV class ship
 +Added Albyss XIV portrait and bounty
+
+hotfix 2.1.1:
+-fixed missing Endless mk1 XIV small weapon slot
